@@ -1,0 +1,17 @@
+.doctor-card{
+  width: 300px;
+
+}
+
+
+.speciality-tag{
+  border-radius: 20px;
+  padding: 3px;
+  font-weight: 600;
+  /* height: 25px; */
+}
+
+.appointment-btn:hover{
+
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
